@@ -1,5 +1,6 @@
 # Final Fantasy XIV Character Data Retrieval Script
 
+
 This script allows you to retrieve various information about a character in Final Fantasy XIV using the XIVAPI. It fetches data such as character attributes, class/job information, equipment, achievements, mounts, and minions.
 
 ## Features
@@ -31,3 +32,7 @@ Feel free to customize the script to suit your specific requirements and integra
 License
 
 ## This script is provided under the MIT License.
+
+![image](https://user-images.githubusercontent.com/95504135/236994624-48b52021-ef1d-48dc-8483-04aa63f5143b.png)
+
+*"Thanks for checking out this repo, kupo!"*
